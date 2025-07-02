@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id>100</id>
+    <names>abdo</names>
+    <age>20</age>
+  </row>
+  <row>
+    <id>101</id>
+    <names>ahmed</names>
+    <age>30</age>
+  </row>
+  <row>
+    <id>102</id>
+    <names>ali</names>
+    <age>40</age>
+  </row>
+</data>
